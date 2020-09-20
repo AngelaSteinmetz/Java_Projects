@@ -1,8 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="Triangles"/>
 	<classpathentry kind="src" path="Snack_Bar"/>
+	<classpathentry kind="src" path="IndexMaker"/>
+	<classpathentry kind="src" path="Chomp"/>
+	<classpathentry kind="src" path="SafeTrade"/>
+	<classpathentry kind="src" path="Lists"/>
+	<classpathentry kind="src" path="LinkedListWithTail Search "/>
+	<classpathentry kind="src" path="LinkedListWithTail"/>
+	<classpathentry kind="src" path="Teletext"/>
+	<classpathentry kind="src" path="Browsing"/>
+	<classpathentry kind="src" path="ActorsWorld"/>
+	<classpathentry kind="src" path="Cryptogram"/>
+	<classpathentry kind="src" path="Giggle"/>
+	<classpathentry kind="src" path="Heap"/>
+	<classpathentry kind="src" path="Stastics"/>
+	<classpathentry kind="src" path="SkiTrail"/>
+	<classpathentry kind="src" path="RPN"/>
+	<classpathentry kind="src" path="Quilt"/>
+	<classpathentry kind="src" path="Poll"/>
+	<classpathentry kind="src" path="BackToSchool"/>
+	<classpathentry kind="src" path="Book"/>
+	<classpathentry kind="src" path="BST"/>
+	<classpathentry kind="src" path="Ch 12 Exercises"/>
+	<classpathentry kind="src" path="Ch 20 Exercises"/>
+	<classpathentry kind="src" path="Ch 10 Exercises"/>
+	<classpathentry kind="src" path="Ch 25 Exercises"/>
+	<classpathentry kind="src" path="Checker"/>
+	<classpathentry kind="src" path="Coins"/>
+	<classpathentry kind="src" path="Complex"/>
+	<classpathentry kind="src" path="Craps"/>
+	<classpathentry kind="src" path="Dictionary"/>
+	<classpathentry kind="src" path="Easter"/>
+	<classpathentry kind="src" path="Elevens"/>
+	<classpathentry kind="src" path="FortuneTeller"/>
+	<classpathentry kind="src" path="IrregularPolygon"/>
+	<classpathentry kind="src" path="Hex"/>
+	<classpathentry kind="src" path="HeapSort"/>
+	<classpathentry kind="src" path="Loops"/>
+	<classpathentry kind="src" path="Fraction"/>
+	<classpathentry kind="src" path="EraseObject"/>
+	<classpathentry kind="src" path="KeepingThingsInOrder"/>
+	<classpathentry kind="src" path="Lipogrammer"/>
+	<classpathentry kind="src" path="MergeList"/>
+	<classpathentry kind="src" path="MorseCode"/>
+	<classpathentry kind="src" path="Numbers"/>
+	<classpathentry kind="src" path="OldMacDonald"/>
+	<classpathentry kind="src" path="Ornament"/>
+	<classpathentry kind="src" path="ParrallelLines"/>
+	<classpathentry kind="src" path="PerfectNumbers"/>
+	<classpathentry kind="src" path="PixLab"/>
+	<classpathentry kind="src" path="PigLatinator"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
